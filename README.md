@@ -1,16 +1,18 @@
-## Hi there 👋
+# Northern City of Heroes
 
-<!--
-**northerncityofheroes/northerncityofheroes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Everyone can be a hero.** Northern City of Heroes builds self-directed learning tools that give people the skills and confidence to act in an emergency.
 
-Here are some ideas to get you started:
+## CourageReady
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CourageReady is a network of sensor-equipped CPR training kiosks. Each kiosk:
+
+- Coaches learners through hands-only CPR with real-time feedback on compression depth and rate
+- Connects over LTE, so it works anywhere it can be placed
+- Reports to a cloud dashboard where site partners can track usage and training impact
+
+We work with hospitals, industrial and mining sites, municipalities, and schools.
+
+## Contact
+
+- Website: [courageready.ca](https://courageready.ca)
+- Based in Sudbury, Ontario, Canada
